@@ -1,0 +1,5 @@
+{
+  "name": "All New Teen Patti",
+  "description": "A web application that showcases a list of Teen Patti applications, similar to an app store, based on a provided design. It features a header, navigation, featured apps, a search bar, and a filterable list of apps.",
+  "requestFramePermissions": []
+}
